@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>LINK</title>
+</head>
+<body>
+<h2>visit amazon</h2>
+<a href="https://www.amazon.com">visit amazon</a>
+</body>
+</html>
